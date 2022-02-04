@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+body {
+    background: #131313;
+    /* background-image: url(assets/hell.jpg); */
+    background-size: cover;
+    color: #fff;
+    font-family: 'Dosis', sans-serif;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
